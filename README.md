@@ -1,2 +1,2 @@
 # ammi_test
-Tutorial on git 
+Sentiment analysis on drug reviews.
